@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        pic = UIImage(named: "picture.jpeg")
+        pic = UIImage(named: "jazzmaster.jpeg")
         
         imgView.image = pic
     }

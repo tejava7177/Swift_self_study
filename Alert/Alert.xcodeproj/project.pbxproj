@@ -7,31 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4401DD6228BE44A900830F7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401DD6128BE44A900830F7F /* AppDelegate.swift */; };
-		4401DD6428BE44A900830F7F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401DD6328BE44A900830F7F /* SceneDelegate.swift */; };
-		4401DD6628BE44A900830F7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401DD6528BE44A900830F7F /* ViewController.swift */; };
-		4401DD6928BE44A900830F7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4401DD6728BE44A900830F7F /* Main.storyboard */; };
-		4401DD6B28BE44AB00830F7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4401DD6A28BE44AB00830F7F /* Assets.xcassets */; };
-		4401DD6E28BE44AB00830F7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4401DD6C28BE44AB00830F7F /* LaunchScreen.storyboard */; };
-		4401DD7628BE44D400830F7F /* picture.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4401DD7528BE44D400830F7F /* picture.jpeg */; };
-		44A3122028E47F3C00331127 /* jazzmaster.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 44A3121F28E47F3C00331127 /* jazzmaster.jpeg */; };
+		44A3120428E4735100331127 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44A3120328E4735100331127 /* AppDelegate.swift */; };
+		44A3120628E4735100331127 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44A3120528E4735100331127 /* SceneDelegate.swift */; };
+		44A3120828E4735100331127 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44A3120728E4735100331127 /* ViewController.swift */; };
+		44A3120B28E4735100331127 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44A3120928E4735100331127 /* Main.storyboard */; };
+		44A3120D28E4735400331127 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44A3120C28E4735400331127 /* Assets.xcassets */; };
+		44A3121028E4735400331127 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44A3120E28E4735400331127 /* LaunchScreen.storyboard */; };
+		44A3121A28E4758200331127 /* jazzmaster.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 44A3121928E4758200331127 /* jazzmaster.jpeg */; };
+		44A3121C28E4758A00331127 /* telecaster.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 44A3121B28E4758A00331127 /* telecaster.jpeg */; };
+		44A3121E28E4766B00331127 /* lespaul.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 44A3121D28E4766B00331127 /* lespaul.jpeg */; };
+		44A3122228E4823000331127 /* guitarshop.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 44A3122128E4823000331127 /* guitarshop.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4401DD5E28BE44A900830F7F /* ImgViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImgViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4401DD6128BE44A900830F7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4401DD6328BE44A900830F7F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4401DD6528BE44A900830F7F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4401DD6828BE44A900830F7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4401DD6A28BE44AB00830F7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4401DD6D28BE44AB00830F7F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4401DD6F28BE44AB00830F7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4401DD7528BE44D400830F7F /* picture.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = picture.jpeg; sourceTree = "<group>"; };
-		44A3121F28E47F3C00331127 /* jazzmaster.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jazzmaster.jpeg; path = ../../Alert/Alert/jazzmaster.jpeg; sourceTree = "<group>"; };
+		44A3120028E4735100331127 /* Alert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Alert.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		44A3120328E4735100331127 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		44A3120528E4735100331127 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		44A3120728E4735100331127 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		44A3120A28E4735100331127 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		44A3120C28E4735400331127 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		44A3120F28E4735400331127 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		44A3121128E4735400331127 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44A3121928E4758200331127 /* jazzmaster.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jazzmaster.jpeg; sourceTree = "<group>"; };
+		44A3121B28E4758A00331127 /* telecaster.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = telecaster.jpeg; sourceTree = "<group>"; };
+		44A3121D28E4766B00331127 /* lespaul.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lespaul.jpeg; sourceTree = "<group>"; };
+		44A3122128E4823000331127 /* guitarshop.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = guitarshop.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4401DD5B28BE44A900830F7F /* Frameworks */ = {
+		44A311FD28E4735100331127 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,74 +45,76 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4401DD5528BE44A900830F7F = {
+		44A311F728E4735100331127 = {
 			isa = PBXGroup;
 			children = (
-				4401DD6028BE44A900830F7F /* ImgViewDemo */,
-				4401DD5F28BE44A900830F7F /* Products */,
+				44A3120228E4735100331127 /* Alert */,
+				44A3120128E4735100331127 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4401DD5F28BE44A900830F7F /* Products */ = {
+		44A3120128E4735100331127 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4401DD5E28BE44A900830F7F /* ImgViewDemo.app */,
+				44A3120028E4735100331127 /* Alert.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4401DD6028BE44A900830F7F /* ImgViewDemo */ = {
+		44A3120228E4735100331127 /* Alert */ = {
 			isa = PBXGroup;
 			children = (
-				44A3121F28E47F3C00331127 /* jazzmaster.jpeg */,
-				4401DD7528BE44D400830F7F /* picture.jpeg */,
-				4401DD6128BE44A900830F7F /* AppDelegate.swift */,
-				4401DD6328BE44A900830F7F /* SceneDelegate.swift */,
-				4401DD6528BE44A900830F7F /* ViewController.swift */,
-				4401DD6728BE44A900830F7F /* Main.storyboard */,
-				4401DD6A28BE44AB00830F7F /* Assets.xcassets */,
-				4401DD6C28BE44AB00830F7F /* LaunchScreen.storyboard */,
-				4401DD6F28BE44AB00830F7F /* Info.plist */,
+				44A3122128E4823000331127 /* guitarshop.jpeg */,
+				44A3121B28E4758A00331127 /* telecaster.jpeg */,
+				44A3121D28E4766B00331127 /* lespaul.jpeg */,
+				44A3121928E4758200331127 /* jazzmaster.jpeg */,
+				44A3120328E4735100331127 /* AppDelegate.swift */,
+				44A3120528E4735100331127 /* SceneDelegate.swift */,
+				44A3120728E4735100331127 /* ViewController.swift */,
+				44A3120928E4735100331127 /* Main.storyboard */,
+				44A3120C28E4735400331127 /* Assets.xcassets */,
+				44A3120E28E4735400331127 /* LaunchScreen.storyboard */,
+				44A3121128E4735400331127 /* Info.plist */,
 			);
-			path = ImgViewDemo;
+			path = Alert;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4401DD5D28BE44A900830F7F /* ImgViewDemo */ = {
+		44A311FF28E4735100331127 /* Alert */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4401DD7228BE44AB00830F7F /* Build configuration list for PBXNativeTarget "ImgViewDemo" */;
+			buildConfigurationList = 44A3121428E4735400331127 /* Build configuration list for PBXNativeTarget "Alert" */;
 			buildPhases = (
-				4401DD5A28BE44A900830F7F /* Sources */,
-				4401DD5B28BE44A900830F7F /* Frameworks */,
-				4401DD5C28BE44A900830F7F /* Resources */,
+				44A311FC28E4735100331127 /* Sources */,
+				44A311FD28E4735100331127 /* Frameworks */,
+				44A311FE28E4735100331127 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ImgViewDemo;
-			productName = ImgViewDemo;
-			productReference = 4401DD5E28BE44A900830F7F /* ImgViewDemo.app */;
+			name = Alert;
+			productName = Alert;
+			productReference = 44A3120028E4735100331127 /* Alert.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4401DD5628BE44A900830F7F /* Project object */ = {
+		44A311F828E4735100331127 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					4401DD5D28BE44A900830F7F = {
+					44A311FF28E4735100331127 = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
-			buildConfigurationList = 4401DD5928BE44A900830F7F /* Build configuration list for PBXProject "ImgViewDemo" */;
+			buildConfigurationList = 44A311FB28E4735100331127 /* Build configuration list for PBXProject "Alert" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,57 +122,59 @@
 				en,
 				Base,
 			);
-			mainGroup = 4401DD5528BE44A900830F7F;
-			productRefGroup = 4401DD5F28BE44A900830F7F /* Products */;
+			mainGroup = 44A311F728E4735100331127;
+			productRefGroup = 44A3120128E4735100331127 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4401DD5D28BE44A900830F7F /* ImgViewDemo */,
+				44A311FF28E4735100331127 /* Alert */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4401DD5C28BE44A900830F7F /* Resources */ = {
+		44A311FE28E4735100331127 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4401DD6E28BE44AB00830F7F /* LaunchScreen.storyboard in Resources */,
-				4401DD7628BE44D400830F7F /* picture.jpeg in Resources */,
-				4401DD6B28BE44AB00830F7F /* Assets.xcassets in Resources */,
-				44A3122028E47F3C00331127 /* jazzmaster.jpeg in Resources */,
-				4401DD6928BE44A900830F7F /* Main.storyboard in Resources */,
+				44A3121A28E4758200331127 /* jazzmaster.jpeg in Resources */,
+				44A3121C28E4758A00331127 /* telecaster.jpeg in Resources */,
+				44A3121028E4735400331127 /* LaunchScreen.storyboard in Resources */,
+				44A3120D28E4735400331127 /* Assets.xcassets in Resources */,
+				44A3121E28E4766B00331127 /* lespaul.jpeg in Resources */,
+				44A3120B28E4735100331127 /* Main.storyboard in Resources */,
+				44A3122228E4823000331127 /* guitarshop.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4401DD5A28BE44A900830F7F /* Sources */ = {
+		44A311FC28E4735100331127 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4401DD6628BE44A900830F7F /* ViewController.swift in Sources */,
-				4401DD6228BE44A900830F7F /* AppDelegate.swift in Sources */,
-				4401DD6428BE44A900830F7F /* SceneDelegate.swift in Sources */,
+				44A3120828E4735100331127 /* ViewController.swift in Sources */,
+				44A3120428E4735100331127 /* AppDelegate.swift in Sources */,
+				44A3120628E4735100331127 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4401DD6728BE44A900830F7F /* Main.storyboard */ = {
+		44A3120928E4735100331127 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4401DD6828BE44A900830F7F /* Base */,
+				44A3120A28E4735100331127 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4401DD6C28BE44AB00830F7F /* LaunchScreen.storyboard */ = {
+		44A3120E28E4735400331127 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4401DD6D28BE44AB00830F7F /* Base */,
+				44A3120F28E4735400331127 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +182,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4401DD7028BE44AB00830F7F /* Debug */ = {
+		44A3121228E4735400331127 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -234,7 +242,7 @@
 			};
 			name = Debug;
 		};
-		4401DD7128BE44AB00830F7F /* Release */ = {
+		44A3121328E4735400331127 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -288,7 +296,7 @@
 			};
 			name = Release;
 		};
-		4401DD7328BE44AB00830F7F /* Debug */ = {
+		44A3121528E4735400331127 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -296,7 +304,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ImgViewDemo/Info.plist;
+				INFOPLIST_FILE = Alert/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -307,7 +315,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = test.pluslab.ImgViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = test.pluslab.Alert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -315,7 +323,7 @@
 			};
 			name = Debug;
 		};
-		4401DD7428BE44AB00830F7F /* Release */ = {
+		44A3121628E4735400331127 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -323,7 +331,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ImgViewDemo/Info.plist;
+				INFOPLIST_FILE = Alert/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -334,7 +342,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = test.pluslab.ImgViewDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = test.pluslab.Alert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -345,25 +353,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4401DD5928BE44A900830F7F /* Build configuration list for PBXProject "ImgViewDemo" */ = {
+		44A311FB28E4735100331127 /* Build configuration list for PBXProject "Alert" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4401DD7028BE44AB00830F7F /* Debug */,
-				4401DD7128BE44AB00830F7F /* Release */,
+				44A3121228E4735400331127 /* Debug */,
+				44A3121328E4735400331127 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4401DD7228BE44AB00830F7F /* Build configuration list for PBXNativeTarget "ImgViewDemo" */ = {
+		44A3121428E4735400331127 /* Build configuration list for PBXNativeTarget "Alert" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4401DD7328BE44AB00830F7F /* Debug */,
-				4401DD7428BE44AB00830F7F /* Release */,
+				44A3121528E4735400331127 /* Debug */,
+				44A3121628E4735400331127 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4401DD5628BE44A900830F7F /* Project object */;
+	rootObject = 44A311F828E4735100331127 /* Project object */;
 }
