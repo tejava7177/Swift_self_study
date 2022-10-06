@@ -24,27 +24,36 @@
                                 <rect key="frame" x="146" y="489" width="99" height="55"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                <state key="normal" title="텔레개스터"/>
+                                <state key="normal" title="텔레캐스터"/>
                                 <connections>
                                     <action selector="btnTelecaster:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CqO-aK-OcM"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dn6-gq-uo7">
-                                <rect key="frame" x="148" y="581" width="99" height="71"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                <state key="normal" title="레스폴"/>
-                                <connections>
-                                    <action selector="btnlespaul:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RF1-kb-nGG"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Cr-UZ-sWK">
-                                <rect key="frame" x="148" y="682" width="99" height="51"/>
+                                <rect key="frame" x="146" y="646" width="99" height="51"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                 <state key="normal" title="재즈마스터"/>
                                 <connections>
                                     <action selector="btnJazzmaster:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SWJ-u8-eRH"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JYN-fs-mzL">
+                                <rect key="frame" x="146" y="552" width="99" height="74"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="레스폴"/>
+                                <connections>
+                                    <action selector="btnLespaul:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LWq-oZ-GIF"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xHT-Mz-xrR">
+                                <rect key="frame" x="54" y="740" width="283" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="홈으로"/>
+                                <connections>
+                                    <action selector="btnHome:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q34-jh-s65"/>
                                 </connections>
                             </button>
                         </subviews>
